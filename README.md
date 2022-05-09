@@ -9,8 +9,7 @@ Navigation bar accross all interal pages allowing users to quickly find the Comp
 
 ## How It's Made:
 
-**Tech used:** Next.js (React Framework for Production)
-**Link to project:** https://nextjs.org/
+**Tech used:** Next.js (React Framework for Production https://nextjs.org/). Google Font, JSX, CSS. Currently hosted locally. Could be launched using Vercel or Heroku.
 
 ## Optimizations
 
