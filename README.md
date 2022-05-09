@@ -11,6 +11,12 @@ Navigation bar accross all interal pages allowing users to quickly find the Comp
 
 **Tech used:** Next.js (React Framework for Production https://nextjs.org/). Google Font, JSX, CSS. Currently hosted locally. Could be launched using Vercel or Heroku.
 
+**GETTING STARTED**
+
+1. Clone repo or download zip file
+2. Run `npm install`
+3. run `npm run dev` (should open up on localhost:3000)
+
 ## Optimizations
 
 Fine-tuning media queries. Multiple language support (Estaba pensando en español jaja). Company Logo SVG. Convert Navigation bar to hamburger menu for mobile and import social media icons for nav.

@@ -1,4 +1,3 @@
-import { useState } from "react";
 import dataset from "../Components/data";
 import Navbar from "../Components/Navbar";
 import CashInfoCards from "../Components/CashInfoCards";
