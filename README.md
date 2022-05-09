@@ -13,7 +13,7 @@ Navigation bar accross all interal pages allowing users to quickly find the Comp
 
 ## Optimizations
 
-Fine-tuning media queries. Multiple language support (Estaba pensando en español jaja). Company Logo SVG. Navigation bar could become a hamburger menu for mobile and import social media icons for nav.
+Fine-tuning media queries. Multiple language support (Estaba pensando en español jaja). Company Logo SVG. Convert Navigation bar to hamburger menu for mobile and import social media icons for nav.
 
 ## Thanks:
 
