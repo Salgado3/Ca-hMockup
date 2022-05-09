@@ -146,7 +146,7 @@
   height: 45px;
   position: sticky;
   bottom: 0;
-  background-color: antiquewhite;
+  background-color: black;
 }
 /* ipads and tablets  */
 @media screen and (max-width: 900px) and (min-width: 650px) {
