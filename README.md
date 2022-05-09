@@ -13,4 +13,8 @@ Navigation bar accross all interal pages allowing users to quickly find the Comp
 
 ## Optimizations
 
-## Lessons Learned:
+Fine-tuning media queries. Multiple language support (Estaba pensando en español jaja). Company Logo SVG. Navigation bar could become a hamburger menu for mobile and import social media icons for nav.
+
+## Thanks:
+
+If you are still reading, thanks for checking this out! Feel free to use the code or reach out to me with questions. Let's chat!
